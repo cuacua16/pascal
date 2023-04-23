@@ -1,10 +1,5 @@
 program P1Ej5;
 
-function inverso(n: integer):integer;
-begin
-    inverso:= n * -1;
-end;
-
 var
     x, dobleX, cont: real;
     
